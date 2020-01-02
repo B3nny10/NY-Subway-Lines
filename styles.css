@@ -1,0 +1,130 @@
+.red {
+    background-color: red;
+text-align: center;
+border-radius: 90px;
+width: 50px;
+color: white;
+border-style: solid;
+border-color: black;
+}
+.green {
+    background-color: green;
+text-align: center;
+border-radius: 90px;
+width: 50px;
+color: white;
+border-style: solid;
+border-color: black;
+}
+.magenta {
+    background-color: magenta;
+text-align: center;
+border-radius: 90px;
+width: 50px;
+color: white;
+border-style: solid;
+border-color: black;
+}
+.blue {
+    background-color: blue;
+text-align: center;
+border-radius: 90px;
+width: 50px;
+color: white;
+border-style: solid;
+border-color: black;
+}
+.orange {
+    background-color: orange;
+text-align: center;
+border-radius: 90px;
+width: 50px;
+color: white;
+border-style: solid;
+border-color: black;
+}
+.lime {
+    background-color: lime;
+text-align: center;
+border-radius: 90px;
+width: 50px;
+color: white;
+border-style: solid;
+border-color: black;
+}
+.brown {
+background-color:brown;
+text-align: center;
+border-radius: 90px;
+width: 50px;
+color: white;
+border-style: solid;
+border-color: black;
+}
+.yellow {
+    background-color: gold;
+border-radius: 90px;
+color: white;
+text-align: center;
+width: 50px;
+border-style: solid;
+border-color: black;
+}
+.lightgrey {
+  background-color: lightgrey;
+border-radius: 450px;
+width: 50px;
+text-align: center;
+color: white;
+border-style: solid;
+border-color: black;
+}
+.grey {
+    background-color: darkgrey;
+color: white;
+border-radius: 90px;
+text-align: center;
+width: 50px;
+border-style: solid;
+border-color: black;
+}
+body {
+    background-color: skyblue;
+}
+h1 {
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/****** DO NOT CHANGE THE STYLES BELOW THIS ******/
+
+body {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+}
+
+li {
+    margin: 0;
+    display: inline-block;
+    font-size: 3em;
+    padding: 0.25em;
+}
